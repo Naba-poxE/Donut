@@ -14,4 +14,6 @@
  4. Install dependencies:   ```pip3 install -r requirements.txt```
  5. Run [main.py](main.py): `python main.py`
 
+## For More info
+
 https://www.a1k0n.net/2011/07/20/donut-math.html
