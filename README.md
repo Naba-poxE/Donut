@@ -1,4 +1,5 @@
 # Donut
+3D ASCII donut using Python with Pygame
 
 ## Run the script
  
